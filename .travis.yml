@@ -4,3 +4,4 @@ jdk:
 script: "./mvnw clean install"
 notifications:
   jmayta17@hotmail.com
+before_install: chmod +x mvnw
