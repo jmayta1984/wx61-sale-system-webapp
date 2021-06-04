@@ -1,12 +1,10 @@
 language: java
-jdk:
-  openjdk8
+jdk: openjdk8
 script: "./mvnw clean install"
-notifications:
-  jmayta17@hotmail.com
+notifications: jmayta17@hotmail.com
 before_install: chmod +x mvnw
 deploy:
   app: sw61-sales-system-webapp
   provider: heroku
   api_key:
-    secure: $HEROKU_API_KEY
+    secure: MC6Vksnm6S/tn1iOd2N9g86DKd8heb0Y9gYR5i7W48MfKFFgywlazm10D2+fE3gJyCOUF5pW+xtMQ5j8hGw1ZiVHU9W8ogSbHamx6v7SUsslqEQIOWvSvWbz+t7hQhw3UpnNWZUF6Lo4+qAAX5UiTDVtCs2VrByhiFjJ9aWkUR3YEmq8qvVlEqgMA4j8sKxl47Ep4CcPI1M7/uIuPoVfABPKE7R51H3g3DNYp6LVvtLfLBJH3wnDTODYeH4s34v0pdnjCZQ/ChzLkzpmDfEiaWZ1ypMSabV/9Ld/ujzRiaBooYQmObVX03pFpr+QnOl8tyMEC2R0qHXb9qlQ/VdP6nsJj2Pja2+zDKRo5Tsr9AF3oHLjpEj/4939hxPJz8jI0DdAmFT9CSmJaerzrttc9fUFR1bsve1iwoJSrk2zbDGsUjIE9jhxke4ZFFxWQeNkzkHTKqrXIT099CXapFXCz0Ydoc6xokItz0VU1uIexOHF1P5xoy6aw1mzqz5QcTU/t67+zIqRhn6hIny/ipVMXRvDM1PmtSznHatGpsf7FBpUspXxOjJGLrpptjswT/Ef5F3rCroF5a71evTcLGqrRpJO6uOLfLLlhhShgzAmv6+pAQ2wE1XdBTqiYrZItDkhn2JB4T1D11ogJ+HUKkA4M7d+XVpjx6owud2lgFI/zb0=
