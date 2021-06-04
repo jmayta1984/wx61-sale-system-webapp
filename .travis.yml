@@ -9,4 +9,4 @@ deploy:
   app: sw61-sales-system-webapp
   provider: heroku
   api_key:
-    secure $HEROKU_API_KEY
+    secure: $HEROKU_API_KEY
