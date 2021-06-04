@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.upc.pe.sistemaventas.SistemaVentasSpringApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.116 s - in com.upc.pe.sistemaventas.SistemaVentasSpringApplicationTests

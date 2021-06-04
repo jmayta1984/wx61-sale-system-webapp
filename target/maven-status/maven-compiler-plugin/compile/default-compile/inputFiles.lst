@@ -1,0 +1,14 @@
+/Users/jmayta/Desktop/repositorio/repositorio/JCTR_FUENTES/src/main/java/com/upc/pe/sistemaventas/SistemaVentasSpringApplication.java
+/Users/jmayta/Desktop/repositorio/repositorio/JCTR_FUENTES/src/main/java/com/upc/pe/sistemaventas/controller/ProductosController.java
+/Users/jmayta/Desktop/repositorio/repositorio/JCTR_FUENTES/src/main/java/com/upc/pe/sistemaventas/repo/ProductosVendidosRepository.java
+/Users/jmayta/Desktop/repositorio/repositorio/JCTR_FUENTES/src/main/java/com/upc/pe/sistemaventas/controller/PrincipalController.java
+/Users/jmayta/Desktop/repositorio/repositorio/JCTR_FUENTES/src/main/java/com/upc/pe/sistemaventas/controller/VenderController.java
+/Users/jmayta/Desktop/repositorio/repositorio/JCTR_FUENTES/src/main/java/com/upc/pe/sistemaventas/model/ProductoVendido.java
+/Users/jmayta/Desktop/repositorio/repositorio/JCTR_FUENTES/src/main/java/com/upc/pe/sistemaventas/model/Venta.java
+/Users/jmayta/Desktop/repositorio/repositorio/JCTR_FUENTES/src/main/java/com/upc/pe/sistemaventas/ServletInitializer.java
+/Users/jmayta/Desktop/repositorio/repositorio/JCTR_FUENTES/src/main/java/com/upc/pe/sistemaventas/repo/ProductosRepository.java
+/Users/jmayta/Desktop/repositorio/repositorio/JCTR_FUENTES/src/main/java/com/upc/pe/sistemaventas/controller/VentasController.java
+/Users/jmayta/Desktop/repositorio/repositorio/JCTR_FUENTES/src/main/java/com/upc/pe/sistemaventas/model/Producto.java
+/Users/jmayta/Desktop/repositorio/repositorio/JCTR_FUENTES/src/main/java/com/upc/pe/sistemaventas/model/ProductoParaVender.java
+/Users/jmayta/Desktop/repositorio/repositorio/JCTR_FUENTES/src/main/java/com/upc/pe/sistemaventas/util/Utiles.java
+/Users/jmayta/Desktop/repositorio/repositorio/JCTR_FUENTES/src/main/java/com/upc/pe/sistemaventas/repo/VentasRepository.java

@@ -1,0 +1,14 @@
+com/upc/pe/sistemaventas/controller/PrincipalController.class
+com/upc/pe/sistemaventas/repo/ProductosVendidosRepository.class
+com/upc/pe/sistemaventas/controller/ProductosController.class
+com/upc/pe/sistemaventas/model/Producto.class
+com/upc/pe/sistemaventas/util/Utiles.class
+com/upc/pe/sistemaventas/repo/VentasRepository.class
+com/upc/pe/sistemaventas/ServletInitializer.class
+com/upc/pe/sistemaventas/model/Venta.class
+com/upc/pe/sistemaventas/model/ProductoParaVender.class
+com/upc/pe/sistemaventas/controller/VentasController.class
+com/upc/pe/sistemaventas/repo/ProductosRepository.class
+com/upc/pe/sistemaventas/model/ProductoVendido.class
+com/upc/pe/sistemaventas/controller/VenderController.class
+com/upc/pe/sistemaventas/SistemaVentasSpringApplication.class
